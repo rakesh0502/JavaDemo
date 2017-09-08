@@ -69,6 +69,7 @@ public class Main {
 	   	 t1.start();
 	   	 t2.start();
 
+	   	 System.out.println("End of demo");
 	}
 
 }
